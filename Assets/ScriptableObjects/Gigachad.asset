@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 813abb048f5168c41b0f7ea2e772a0b0, type: 3}
+  m_Name: Gigachad
+  m_EditorClassIdentifier: 
+  _unitID: 4
+  _unitName: Gigachad 228
+  _unitMiniature: {fileID: 21300000, guid: 30a457a91de167a4b9a228cfe911ed89, type: 3}
+  _initiative: 1
+  _unitMovingDistance: 2
+  _unitHP: 300
+  _unitDefence: 5
+  _unitEvation: 0
+  _unitAttackType: 0
+  _unitDamage: 20
+  _unitDamageRange: 1
